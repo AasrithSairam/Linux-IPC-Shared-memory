@@ -1,3 +1,5 @@
+# name: ponguru aasrith sairam
+# reg. no: 212223240116
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
@@ -53,7 +55,9 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/AasrithSairam/Linux-IPC-Shared-memory/assets/139331438/64891cb2-fcaf-4d30-ba69-949962887da4)
+![image](https://github.com/AasrithSairam/Linux-IPC-Shared-memory/assets/139331438/b24f256e-11b5-44cc-80f6-074d09e7bf32)
+![image](https://github.com/AasrithSairam/Linux-IPC-Shared-memory/assets/139331438/c30274d5-c3f6-40f8-9d49-a97db11edcee)
+
 
 
 
